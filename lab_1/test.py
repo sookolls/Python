@@ -1,11 +1,11 @@
-def leap_year(year):
+def leap_year(year: int) -> str:
     assert isinstance (year, int)
-    if (year//100)!=0 and year // 4 or year//400:
+    if (year%4==0 and (year%100)!=0) or year%400==0:
         return "Год високосный"
-    elif print ("not leap_year"):
-        return "Год невисокосный"
+    else: return"Год невисокосный"
 try:
-    year = int(input("Введите число: "))
     print(leap_year(year))
 except ValueError:
     print("Некорректный тип")
+except Exception as e:
+    print(f"Неверное значение: {e}")
