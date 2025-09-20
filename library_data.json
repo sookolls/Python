@@ -1,0 +1,78 @@
+{
+    "all_books": [
+        {
+            "title": "fairy tale",
+            "author": "Author1",
+            "isbn": "123",
+            "year": 1874
+        },
+        {
+            "title": "The stories",
+            "author": "Author1",
+            "isbn": "345",
+            "year": 1901
+        },
+        {
+            "title": "fairy tale",
+            "author": "Author3",
+            "isbn": "567",
+            "year": 1991
+        }
+    ],
+    "book_genre": {
+        "fairy tale": [
+            {
+                "title": "fairy tale",
+                "author": "Author1",
+                "isbn": "123",
+                "year": 1874
+            },
+            {
+                "title": "fairy tale",
+                "author": "Author3",
+                "isbn": "567",
+                "year": 1991
+            }
+        ],
+        "stories": [
+            {
+                "title": "The stories",
+                "author": "Author1",
+                "isbn": "345",
+                "year": 1901
+            }
+        ]
+    },
+    "waiting_queue": [
+        "ivan",
+        "oleg"
+    ],
+    "author_counter": {
+        "Author1": 2,
+        "Author3": 1
+    },
+    "history": {
+        "ivan": [
+            {
+                "title": "fairy tale",
+                "author": "Author3",
+                "isbn": "567",
+                "year": 1991
+            },
+            {
+                "title": "The stories",
+                "author": "Author1",
+                "isbn": "345",
+                "year": 1901
+            }
+        ],
+        "oleg": [
+            {
+                "title": "fairy tale",
+                "author": "Author1",
+                "isbn": "123",
+                "year": 1874
+            }
+        ]
+    }
+}

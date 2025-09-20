@@ -1,0 +1,1106 @@
+[
+    {
+        "name": "lab_13_09",
+        "size": 5674,
+        "extension": ".ipynb",
+        "modified_time": 1757873810.805663
+    },
+    {
+        "name": "lab_1_section_3_01",
+        "size": 31340,
+        "extension": ".ipynb",
+        "modified_time": 1757873773.197852
+    },
+    {
+        "name": "lab_2_section_2_01",
+        "size": 17167,
+        "extension": ".ipynb",
+        "modified_time": 1757857873.8700693
+    },
+    {
+        "name": "lab_2_section_2_02",
+        "size": 50941,
+        "extension": ".ipynb",
+        "modified_time": 1758269336.0899034
+    },
+    {
+        "name": "library_data",
+        "size": 1825,
+        "extension": ".json",
+        "modified_time": 1758017766.6131742
+    },
+    {
+        "name": "library_data",
+        "size": 441,
+        "extension": ".pkl",
+        "modified_time": 1758017766.6141734
+    },
+    {
+        "name": "results",
+        "size": 29069,
+        "extension": ".json",
+        "modified_time": 1758363483.242422
+    },
+    {
+        "name": "text_file_for_lab1",
+        "size": 806,
+        "extension": ".txt",
+        "modified_time": 1757514194.3904223
+    },
+    {
+        "name": ".MERGE_MSG",
+        "size": 12288,
+        "extension": ".swp",
+        "modified_time": 1757516013.9735713
+    },
+    {
+        "name": "COMMIT_EDITMSG",
+        "size": 2,
+        "extension": "",
+        "modified_time": 1758018031.5003483
+    },
+    {
+        "name": "config",
+        "size": 301,
+        "extension": "",
+        "modified_time": 1757425283.6672707
+    },
+    {
+        "name": "description",
+        "size": 73,
+        "extension": "",
+        "modified_time": 1757424992.6670518
+    },
+    {
+        "name": "FETCH_HEAD",
+        "size": 96,
+        "extension": "",
+        "modified_time": 1757515999.3695333
+    },
+    {
+        "name": "HEAD",
+        "size": 23,
+        "extension": "",
+        "modified_time": 1757425261.7484128
+    },
+    {
+        "name": "index",
+        "size": 1145,
+        "extension": "",
+        "modified_time": 1758018031.4948719
+    },
+    {
+        "name": "ORIG_HEAD",
+        "size": 41,
+        "extension": "",
+        "modified_time": 1757515999.50258
+    },
+    {
+        "name": "applypatch-msg",
+        "size": 478,
+        "extension": ".sample",
+        "modified_time": 1757424992.6690547
+    },
+    {
+        "name": "commit-msg",
+        "size": 896,
+        "extension": ".sample",
+        "modified_time": 1757424992.670052
+    },
+    {
+        "name": "fsmonitor-watchman",
+        "size": 4726,
+        "extension": ".sample",
+        "modified_time": 1757424992.7093704
+    },
+    {
+        "name": "post-update",
+        "size": 189,
+        "extension": ".sample",
+        "modified_time": 1757424992.7103696
+    },
+    {
+        "name": "pre-applypatch",
+        "size": 424,
+        "extension": ".sample",
+        "modified_time": 1757424992.713371
+    },
+    {
+        "name": "pre-commit",
+        "size": 1649,
+        "extension": ".sample",
+        "modified_time": 1757424992.714372
+    },
+    {
+        "name": "pre-merge-commit",
+        "size": 416,
+        "extension": ".sample",
+        "modified_time": 1757424992.7163708
+    },
+    {
+        "name": "pre-push",
+        "size": 1374,
+        "extension": ".sample",
+        "modified_time": 1757424992.7183714
+    },
+    {
+        "name": "pre-rebase",
+        "size": 4898,
+        "extension": ".sample",
+        "modified_time": 1757424992.719371
+    },
+    {
+        "name": "pre-receive",
+        "size": 544,
+        "extension": ".sample",
+        "modified_time": 1757424992.7213726
+    },
+    {
+        "name": "prepare-commit-msg",
+        "size": 1492,
+        "extension": ".sample",
+        "modified_time": 1757424992.7233732
+    },
+    {
+        "name": "push-to-checkout",
+        "size": 2783,
+        "extension": ".sample",
+        "modified_time": 1757424992.7253764
+    },
+    {
+        "name": "sendemail-validate",
+        "size": 2308,
+        "extension": ".sample",
+        "modified_time": 1757424992.7273774
+    },
+    {
+        "name": "update",
+        "size": 3650,
+        "extension": ".sample",
+        "modified_time": 1757424992.7283735
+    },
+    {
+        "name": "exclude",
+        "size": 240,
+        "extension": "",
+        "modified_time": 1757424992.731377
+    },
+    {
+        "name": "HEAD",
+        "size": 4022,
+        "extension": "",
+        "modified_time": 1758018031.5079942
+    },
+    {
+        "name": "master",
+        "size": 3834,
+        "extension": "",
+        "modified_time": 1758018031.5091264
+    },
+    {
+        "name": "master",
+        "size": 3570,
+        "extension": "",
+        "modified_time": 1758018043.7906826
+    },
+    {
+        "name": "8b2ca5dd7bd14f3bf10fe3d0d452d113125a06",
+        "size": 48,
+        "extension": "",
+        "modified_time": 1757429768.587639
+    },
+    {
+        "name": "cb58e544aeccf2867ebaca810c789a868d25df",
+        "size": 150,
+        "extension": "",
+        "modified_time": 1758018031.5023491
+    },
+    {
+        "name": "3007fc95bff9f9fa3556746a3de1940ed8c2b1",
+        "size": 121,
+        "extension": "",
+        "modified_time": 1757482508.500451
+    },
+    {
+        "name": "f3a2413036257921529ee03799e7f763742735",
+        "size": 120,
+        "extension": "",
+        "modified_time": 1757440691.90615
+    },
+    {
+        "name": "15efb59ee54241490da74a87732201be5d695c",
+        "size": 173,
+        "extension": "",
+        "modified_time": 1757515999.577566
+    },
+    {
+        "name": "31d64c68cdbfb9bbd6f7e3b50131368bb275d8",
+        "size": 153,
+        "extension": "",
+        "modified_time": 1757511687.4887662
+    },
+    {
+        "name": "b99eb752849349b7783d7b2fe43582ae83e5d0",
+        "size": 73,
+        "extension": "",
+        "modified_time": 1757511687.4734757
+    },
+    {
+        "name": "ad17b648b733ce313f8cf94b0ec54115b81d72",
+        "size": 171,
+        "extension": "",
+        "modified_time": 1757440691.9256847
+    },
+    {
+        "name": "a3a7f43f397befdc57f679408c01bdc07d32ca",
+        "size": 1339,
+        "extension": "",
+        "modified_time": 1757759352.5317173
+    },
+    {
+        "name": "5ce2da2d6447d11dfe32bfb846c3d5b199fc99",
+        "size": 142,
+        "extension": "",
+        "modified_time": 1757504793.291785
+    },
+    {
+        "name": "87975deee9ba0daad99e3801dd7e8fa594c9b9",
+        "size": 793,
+        "extension": "",
+        "modified_time": 1757752654.3405902
+    },
+    {
+        "name": "e6b63fb23066f12f8f420f430568e8e998caa7",
+        "size": 121,
+        "extension": "",
+        "modified_time": 1757441155.1512728
+    },
+    {
+        "name": "403832094c134814d5c93fa443d8e4767ed6a7",
+        "size": 4338,
+        "extension": "",
+        "modified_time": 1757513631.761189
+    },
+    {
+        "name": "f267773b074972078d7b45c9377c78611fcaf5",
+        "size": 47,
+        "extension": "",
+        "modified_time": 1757441155.197244
+    },
+    {
+        "name": "bdabe2ccc08fdb096227256c93fb5f211668b5",
+        "size": 233,
+        "extension": "",
+        "modified_time": 1757752675.8889303
+    },
+    {
+        "name": "7e282b56c5b422d9bbe1a91849b479bbc13e29",
+        "size": 4131,
+        "extension": "",
+        "modified_time": 1757853751.8749516
+    },
+    {
+        "name": "4065225f5fa70c3175d2d5075d3d3ea97e60f9",
+        "size": 47,
+        "extension": "",
+        "modified_time": 1757426945.6652367
+    },
+    {
+        "name": "d33521af10bcc7fd8cea344038eaaeb78d0ef5",
+        "size": 63,
+        "extension": "",
+        "modified_time": 1757504793.2848108
+    },
+    {
+        "name": "15d77f93970cfd2213ad6799627c8f6d3d9241",
+        "size": 72,
+        "extension": "",
+        "modified_time": 1757512644.8803694
+    },
+    {
+        "name": "739395e23508a46121b5ace72603ed82a11bd7",
+        "size": 165,
+        "extension": "",
+        "modified_time": 1757511687.4615765
+    },
+    {
+        "name": "7dd419042830cae7906d3a8df546466fbf33ed",
+        "size": 154,
+        "extension": "",
+        "modified_time": 1757512644.8932662
+    },
+    {
+        "name": "c2d03728ec8ac5907f1afd427210b1ceb3fe8c",
+        "size": 175,
+        "extension": "",
+        "modified_time": 1757515999.644271
+    },
+    {
+        "name": "15717710127f425b70bb6fccd8822bdeda249e",
+        "size": 4651,
+        "extension": "",
+        "modified_time": 1758017802.8882105
+    },
+    {
+        "name": "1fdac48796831ee5a2f4bab28d91c11ddd5fbc",
+        "size": 1336,
+        "extension": "",
+        "modified_time": 1757759388.7758305
+    },
+    {
+        "name": "a305ea65c5fa8810bc266007343113b3bea3ec",
+        "size": 56,
+        "extension": "",
+        "modified_time": 1757510207.7706003
+    },
+    {
+        "name": "a573ccb96fbcfdece0e7be63e15d32274a6965",
+        "size": 47,
+        "extension": "",
+        "modified_time": 1757440691.9120283
+    },
+    {
+        "name": "41bea4818d7d117bf4a6b24a485b98ac91df32",
+        "size": 152,
+        "extension": "",
+        "modified_time": 1757510207.7639747
+    },
+    {
+        "name": "e483e204f037b40983048875083052a81db674",
+        "size": 155,
+        "extension": "",
+        "modified_time": 1757504818.4078414
+    },
+    {
+        "name": "d3b45bcbf2f15de9842ce1a4e08676b3c4479a",
+        "size": 155,
+        "extension": "",
+        "modified_time": 1757767235.3511508
+    },
+    {
+        "name": "6b1eb0674f0b7081428303e1c98a6fa3d03547",
+        "size": 228,
+        "extension": "",
+        "modified_time": 1757857879.486481
+    },
+    {
+        "name": "3ca118f9e41fb3b3a4475778d4825672b1273d",
+        "size": 1456,
+        "extension": "",
+        "modified_time": 1757440924.8066761
+    },
+    {
+        "name": "978a7aa9ef65c1f5596049333a48a3f0fc5f7e",
+        "size": 24,
+        "extension": "",
+        "modified_time": 1757425193.894101
+    },
+    {
+        "name": "93ef4bec2748a44161776c8226a70210882461",
+        "size": 24,
+        "extension": "",
+        "modified_time": 1757440677.063547
+    },
+    {
+        "name": "9603dbe23ccae9750ed2b08f5978f8fb0e1c59",
+        "size": 204,
+        "extension": "",
+        "modified_time": 1757752792.7342832
+    },
+    {
+        "name": "588a0dac702932f69a5ae83f2d4f911602fe3d",
+        "size": 159,
+        "extension": "",
+        "modified_time": 1757752675.8979654
+    },
+    {
+        "name": "462908624a87d89623a16d6b662209100f87d0",
+        "size": 204,
+        "extension": "",
+        "modified_time": 1757759587.3755949
+    },
+    {
+        "name": "c9a7085d2c505abb02301a301992572d74222c",
+        "size": 52,
+        "extension": "",
+        "modified_time": 1757425199.8168633
+    },
+    {
+        "name": "b26fc5887984b369eed2906b31cb448f4ea00b",
+        "size": 151,
+        "extension": "",
+        "modified_time": 1757441155.210909
+    },
+    {
+        "name": "2fa1fd0db2864127a3eb539c71a7a906c20b82",
+        "size": 87,
+        "extension": "",
+        "modified_time": 1757426945.6213574
+    },
+    {
+        "name": "b86512d62c4ded25445cd91ea7ec0bfd3fcc5f",
+        "size": 4861,
+        "extension": "",
+        "modified_time": 1757515905.3234713
+    },
+    {
+        "name": "50d32bde744281e88d37a41ef10861619ba75a",
+        "size": 826,
+        "extension": "",
+        "modified_time": 1757515999.2470453
+    },
+    {
+        "name": "50862425da1e4dedf6899a78f6016822a4042b",
+        "size": 156,
+        "extension": "",
+        "modified_time": 1757853981.0572426
+    },
+    {
+        "name": "a22c31c0b5301dde8544a97b993da91b483694",
+        "size": 4898,
+        "extension": "",
+        "modified_time": 1757752654.3320446
+    },
+    {
+        "name": "445f879c67a131bc5882a94928477f702a8e74",
+        "size": 210,
+        "extension": "",
+        "modified_time": 1757513673.068894
+    },
+    {
+        "name": "08b23d9806e87280a3bbcb5bd0e6bf0a5941ac",
+        "size": 227,
+        "extension": "",
+        "modified_time": 1757873854.827341
+    },
+    {
+        "name": "252cf57f055e25e5526b9241fe264e6a7869d8",
+        "size": 1884,
+        "extension": "",
+        "modified_time": 1757873837.642574
+    },
+    {
+        "name": "fc62d97c8a4bc8edb5299a1675e3b1cc11a520",
+        "size": 180,
+        "extension": "",
+        "modified_time": 1757443806.0927286
+    },
+    {
+        "name": "45c5ff3df1fc5fe9fe04ca249d6b5fcbb89c07",
+        "size": 87,
+        "extension": "",
+        "modified_time": 1757429768.57276
+    },
+    {
+        "name": "66142036b57c7c6c9f63460d68da008b2d9f07",
+        "size": 4147,
+        "extension": "",
+        "modified_time": 1757504793.2801313
+    },
+    {
+        "name": "3ef10083505768955e18556b1ccf8cb66e84de",
+        "size": 161,
+        "extension": "",
+        "modified_time": 1757504818.3710103
+    },
+    {
+        "name": "cd43ca3f4ebb7a4a23943630e5d5ac6d08ac80",
+        "size": 161,
+        "extension": "",
+        "modified_time": 1757759587.3844264
+    },
+    {
+        "name": "1a885b4eb6437c3f1c247d0c60253e244394fb",
+        "size": 121,
+        "extension": "",
+        "modified_time": 1757489145.2970316
+    },
+    {
+        "name": "97262405d0ac4c34ea4c1215654db48df08b36",
+        "size": 143,
+        "extension": "",
+        "modified_time": 1757513245.2876995
+    },
+    {
+        "name": "9ef7b4ae7d22ee42527084ac146ad1e19b97cf",
+        "size": 256,
+        "extension": "",
+        "modified_time": 1757429746.8276663
+    },
+    {
+        "name": "a587dcbb144c3c711f9bded2f96a48fec7c8a3",
+        "size": 461,
+        "extension": "",
+        "modified_time": 1757515905.3257918
+    },
+    {
+        "name": "ab4a4f4c5180e1a92dc1fdf7b869683be55dc2",
+        "size": 228,
+        "extension": "",
+        "modified_time": 1757853981.0483735
+    },
+    {
+        "name": "c2a9fa6ec9e66cecafa385099a1c7c6200e5e6",
+        "size": 5555,
+        "extension": "",
+        "modified_time": 1757767214.572137
+    },
+    {
+        "name": "247fbdb75580bc41e3f8daa6048676d4e9667b",
+        "size": 373,
+        "extension": "",
+        "modified_time": 1757426940.2457328
+    },
+    {
+        "name": "3e0f2754536688450905325369ecffe762b6a0",
+        "size": 157,
+        "extension": "",
+        "modified_time": 1757515927.2855282
+    },
+    {
+        "name": "65e9d68036675a42dce2e3a95c7abb1bc88273",
+        "size": 205,
+        "extension": "",
+        "modified_time": 1757767235.3303456
+    },
+    {
+        "name": "233b6982b2662f4ed0411ddd6459c6655893a1",
+        "size": 597,
+        "extension": "",
+        "modified_time": 1757426940.253865
+    },
+    {
+        "name": "2beaaa2b4de049541336b64f0a2ee64043c511",
+        "size": 3832,
+        "extension": "",
+        "modified_time": 1757489134.783282
+    },
+    {
+        "name": "5bd19c27e104fc430137dd83c3a2c34e7aba87",
+        "size": 158,
+        "extension": "",
+        "modified_time": 1757482508.522734
+    },
+    {
+        "name": "ce54561a7a05de170bf7bae125f52eb90eb20a",
+        "size": 183,
+        "extension": "",
+        "modified_time": 1757515999.264094
+    },
+    {
+        "name": "697c5ee1295837c9d3920dc0880c96329169c7",
+        "size": 3341,
+        "extension": "",
+        "modified_time": 1757482475.511286
+    },
+    {
+        "name": "c3439909b880b7629a9b5bd88a278a4101d261",
+        "size": 47,
+        "extension": "",
+        "modified_time": 1757425199.8616343
+    },
+    {
+        "name": "ead4b66720fc91119e8b56e7ebb756fcdf22ea",
+        "size": 2636,
+        "extension": "",
+        "modified_time": 1757443777.8229568
+    },
+    {
+        "name": "8c2c420abfdc3e3989eeee3e40a0389ba5cf23",
+        "size": 4859,
+        "extension": "",
+        "modified_time": 1757857877.2310596
+    },
+    {
+        "name": "463c505039619a284b27fc2a79b519052371fc",
+        "size": 256,
+        "extension": "",
+        "modified_time": 1757515927.2766135
+    },
+    {
+        "name": "1271037987a71890d57c3e2db15d0ee5975ff2",
+        "size": 172,
+        "extension": "",
+        "modified_time": 1757429768.594736
+    },
+    {
+        "name": "8a17dd7f550d0ba42b54f4e84821ca2e1b0229",
+        "size": 157,
+        "extension": "",
+        "modified_time": 1757873854.836374
+    },
+    {
+        "name": "a25f7f4cb416c083d265558da75d457237d671",
+        "size": 155,
+        "extension": "",
+        "modified_time": 1757504793.30889
+    },
+    {
+        "name": "824ec9b0149e48c91dce4fee530335b327c686",
+        "size": 66,
+        "extension": "",
+        "modified_time": 1757504818.3628166
+    },
+    {
+        "name": "d6936bef165576e9b9e87010647078df2f437d",
+        "size": 174,
+        "extension": "",
+        "modified_time": 1757513631.7641907
+    },
+    {
+        "name": "1dbf924f4c31c06aeb237be58fa867ae57c4b4",
+        "size": 226,
+        "extension": "",
+        "modified_time": 1758018031.4928658
+    },
+    {
+        "name": "573146d3e901bc475d8f6731c03f1a4e6750c3",
+        "size": 121,
+        "extension": "",
+        "modified_time": 1757443806.073574
+    },
+    {
+        "name": "7d76aa6b5774d3d6aaeda34917f59ccdf03a5e",
+        "size": 1296,
+        "extension": "",
+        "modified_time": 1757752654.3367603
+    },
+    {
+        "name": "a6ccf9db4ca847cb7f8a80f3ecda464b899104",
+        "size": 56,
+        "extension": "",
+        "modified_time": 1757513245.2842555
+    },
+    {
+        "name": "0d0d3f5ce6046f004a3c9ae11962e5e3dcccfa",
+        "size": 200,
+        "extension": "",
+        "modified_time": 1757515999.6527884
+    },
+    {
+        "name": "08bafc2f5c02561186f5067b1f9f378d0a8d84",
+        "size": 47,
+        "extension": "",
+        "modified_time": 1757443806.0773616
+    },
+    {
+        "name": "f801cc90690523accc9822253420e5fe675dc9",
+        "size": 4147,
+        "extension": "",
+        "modified_time": 1757511677.876284
+    },
+    {
+        "name": "655126a8c2459db7d914f05b9ea25bb1c05581",
+        "size": 153,
+        "extension": "",
+        "modified_time": 1757513245.3071465
+    },
+    {
+        "name": "96c0feec6b53d704aa5996870d4fe440763e37",
+        "size": 72,
+        "extension": "",
+        "modified_time": 1757510207.7748525
+    },
+    {
+        "name": "889303a102562fca542aba0d70718722c62709",
+        "size": 204,
+        "extension": "",
+        "modified_time": 1757515999.6699617
+    },
+    {
+        "name": "4939a1cc8fdda87c227e8ff80adfd84c6c27a1",
+        "size": 8538,
+        "extension": "",
+        "modified_time": 1757873837.6457794
+    },
+    {
+        "name": "808d33e9ad30e49495ba96ec5f5ddcff3b4f92",
+        "size": 48,
+        "extension": "",
+        "modified_time": 1757482508.5076008
+    },
+    {
+        "name": "1d3326c94f55dc974538c1fb414ea60a0b5761",
+        "size": 2979,
+        "extension": "",
+        "modified_time": 1757449091.7716682
+    },
+    {
+        "name": "708d2828585766bc48827bff9a9ade83ac72c8",
+        "size": 48,
+        "extension": "",
+        "modified_time": 1757504818.3866775
+    },
+    {
+        "name": "44bb0f065d23432420c8d09a701a9b2cc62c25",
+        "size": 836,
+        "extension": "",
+        "modified_time": 1757515999.2522893
+    },
+    {
+        "name": "e4299dde5d4f0219042dfe0adc3194165c3de6",
+        "size": 155,
+        "extension": "",
+        "modified_time": 1757513673.080897
+    },
+    {
+        "name": "c2a5774a81c35ba90dfc8985ccd2a1303c5aba",
+        "size": 157,
+        "extension": "",
+        "modified_time": 1757489145.3193536
+    },
+    {
+        "name": "a610811dd1cb53dd5044c7599ebeaa9892b75b",
+        "size": 263,
+        "extension": "",
+        "modified_time": 1757443777.8270102
+    },
+    {
+        "name": "5aad0822457f2b7bfc39433f579ad680e628e6",
+        "size": 47,
+        "extension": "",
+        "modified_time": 1757489145.3040466
+    },
+    {
+        "name": "b9831d6804b32c904d8d4a451f8db6d81742a5",
+        "size": 120,
+        "extension": "",
+        "modified_time": 1757449105.5496857
+    },
+    {
+        "name": "6657add3eb3c246989284ec6e6a8475603cf1d",
+        "size": 147,
+        "extension": "",
+        "modified_time": 1757504793.2977858
+    },
+    {
+        "name": "acfc81a99b8c6ca1b0e962fec0e27f01e3415c",
+        "size": 1595,
+        "extension": "",
+        "modified_time": 1757767214.5648735
+    },
+    {
+        "name": "7f31600084e2f7f9ee11691ed1107f57a179a3",
+        "size": 158,
+        "extension": "",
+        "modified_time": 1757515999.2584548
+    },
+    {
+        "name": "94742776160737c91bc572cbbdc0c42f3caee7",
+        "size": 123,
+        "extension": "",
+        "modified_time": 1757425199.8719263
+    },
+    {
+        "name": "648ac908c4e6fe62ce44fe876ee33f29034f49",
+        "size": 154,
+        "extension": "",
+        "modified_time": 1757510207.7888758
+    },
+    {
+        "name": "edc962ca784e30660788fa458e7c6b9396e021",
+        "size": 67,
+        "extension": "",
+        "modified_time": 1757512644.836002
+    },
+    {
+        "name": "e30d8d9ce7c33e11ea5f47be0534947d48cd7e",
+        "size": 3829,
+        "extension": "",
+        "modified_time": 1757767214.5781395
+    },
+    {
+        "name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "size": 15,
+        "extension": "",
+        "modified_time": 1757510194.784642
+    },
+    {
+        "name": "6f2585e60ea63d9a86b9f5019ade02df966681",
+        "size": 170,
+        "extension": "",
+        "modified_time": 1757426945.6846776
+    },
+    {
+        "name": "375a9eee5070717cf94cf06dc039438e86679f",
+        "size": 157,
+        "extension": "",
+        "modified_time": 1757857879.4932327
+    },
+    {
+        "name": "1257467848b90570259c2af07a6d67ee25db7c",
+        "size": 179,
+        "extension": "",
+        "modified_time": 1757516041.0755544
+    },
+    {
+        "name": "5d14720d92c1c21f6ab5705a20a161ffc3fb61",
+        "size": 173,
+        "extension": "",
+        "modified_time": 1757449105.5707877
+    },
+    {
+        "name": "9b79ed47cc215ae019e379c3389dbfc7bcd40a",
+        "size": 117,
+        "extension": "",
+        "modified_time": 1757513673.061258
+    },
+    {
+        "name": "17a2e4b2ee0b427605b2d3c33d2124d2c530d4",
+        "size": 47,
+        "extension": "",
+        "modified_time": 1757449105.556286
+    },
+    {
+        "name": "17c20001c49d85f37221e9dc4489b49db9d257",
+        "size": 151,
+        "extension": "",
+        "modified_time": 1757504818.3803823
+    },
+    {
+        "name": "master",
+        "size": 41,
+        "extension": "",
+        "modified_time": 1758018031.5069928
+    },
+    {
+        "name": "master",
+        "size": 41,
+        "extension": "",
+        "modified_time": 1758018043.7876823
+    },
+    {
+        "name": "README",
+        "size": 9,
+        "extension": ".md",
+        "modified_time": 1757439975.3577385
+    },
+    {
+        "name": "test",
+        "size": 386,
+        "extension": ".py",
+        "modified_time": 1757443088.897393
+    },
+    {
+        "name": "COMMIT_EDITMSG",
+        "size": 15,
+        "extension": "",
+        "modified_time": 1757440524.6744125
+    },
+    {
+        "name": "config",
+        "size": 297,
+        "extension": "",
+        "modified_time": 1757440023.1080942
+    },
+    {
+        "name": "description",
+        "size": 73,
+        "extension": "",
+        "modified_time": 1757439985.6980622
+    },
+    {
+        "name": "HEAD",
+        "size": 21,
+        "extension": "",
+        "modified_time": 1757440009.6687312
+    },
+    {
+        "name": "index",
+        "size": 289,
+        "extension": "",
+        "modified_time": 1757440524.668409
+    },
+    {
+        "name": "applypatch-msg",
+        "size": 478,
+        "extension": ".sample",
+        "modified_time": 1757439985.7010634
+    },
+    {
+        "name": "commit-msg",
+        "size": 896,
+        "extension": ".sample",
+        "modified_time": 1757439985.7030632
+    },
+    {
+        "name": "fsmonitor-watchman",
+        "size": 4726,
+        "extension": ".sample",
+        "modified_time": 1757439985.7050672
+    },
+    {
+        "name": "post-update",
+        "size": 189,
+        "extension": ".sample",
+        "modified_time": 1757439985.7070656
+    },
+    {
+        "name": "pre-applypatch",
+        "size": 424,
+        "extension": ".sample",
+        "modified_time": 1757439985.7080653
+    },
+    {
+        "name": "pre-commit",
+        "size": 1649,
+        "extension": ".sample",
+        "modified_time": 1757439985.7100654
+    },
+    {
+        "name": "pre-merge-commit",
+        "size": 416,
+        "extension": ".sample",
+        "modified_time": 1757439985.7140667
+    },
+    {
+        "name": "pre-push",
+        "size": 1374,
+        "extension": ".sample",
+        "modified_time": 1757439985.7160656
+    },
+    {
+        "name": "pre-rebase",
+        "size": 4898,
+        "extension": ".sample",
+        "modified_time": 1757439985.718067
+    },
+    {
+        "name": "pre-receive",
+        "size": 544,
+        "extension": ".sample",
+        "modified_time": 1757439985.7190683
+    },
+    {
+        "name": "prepare-commit-msg",
+        "size": 1492,
+        "extension": ".sample",
+        "modified_time": 1757439985.7220678
+    },
+    {
+        "name": "push-to-checkout",
+        "size": 2783,
+        "extension": ".sample",
+        "modified_time": 1757439985.7230682
+    },
+    {
+        "name": "sendemail-validate",
+        "size": 2308,
+        "extension": ".sample",
+        "modified_time": 1757439985.7250698
+    },
+    {
+        "name": "update",
+        "size": 3650,
+        "extension": ".sample",
+        "modified_time": 1757439985.7272942
+    },
+    {
+        "name": "exclude",
+        "size": 240,
+        "extension": "",
+        "modified_time": 1757439985.7312937
+    },
+    {
+        "name": "HEAD",
+        "size": 692,
+        "extension": "",
+        "modified_time": 1757440524.6837552
+    },
+    {
+        "name": "main",
+        "size": 506,
+        "extension": "",
+        "modified_time": 1757440524.6837552
+    },
+    {
+        "name": "main",
+        "size": 148,
+        "extension": "",
+        "modified_time": 1757440023.1407983
+    },
+    {
+        "name": "f3a2413036257921529ee03799e7f763742735",
+        "size": 120,
+        "extension": "",
+        "modified_time": 1757440524.6644087
+    },
+    {
+        "name": "76167bc89d5be337a2d26aaf8d2bc47256430f",
+        "size": 168,
+        "extension": "",
+        "modified_time": 1757440524.6764116
+    },
+    {
+        "name": "93ef4bec2748a44161776c8226a70210882461",
+        "size": 24,
+        "extension": "",
+        "modified_time": 1757439996.0887108
+    },
+    {
+        "name": "9ef7b4ae7d22ee42527084ac146ad1e19b97cf",
+        "size": 256,
+        "extension": "",
+        "modified_time": 1757440471.5583656
+    },
+    {
+        "name": "73c6abea7dde1d5b5bf27e2428247eb76eb9eb",
+        "size": 126,
+        "extension": "",
+        "modified_time": 1757440001.1223934
+    },
+    {
+        "name": "233b6982b2662f4ed0411ddd6459c6655893a1",
+        "size": 597,
+        "extension": "",
+        "modified_time": 1757440093.372848
+    },
+    {
+        "name": "20c8dbb9cd7262eac3d982c95c8826a0ecc1a7",
+        "size": 53,
+        "extension": "",
+        "modified_time": 1757440001.1092198
+    },
+    {
+        "name": "main",
+        "size": 41,
+        "extension": "",
+        "modified_time": 1757440524.6827538
+    },
+    {
+        "name": "main",
+        "size": 41,
+        "extension": "",
+        "modified_time": 1757440023.1320982
+    },
+    {
+        "name": ".gitignore",
+        "size": 50,
+        "extension": "",
+        "modified_time": 1757495327.8198435
+    },
+    {
+        "name": "misc",
+        "size": 188,
+        "extension": ".xml",
+        "modified_time": 1757495341.3118541
+    },
+    {
+        "name": "vcs",
+        "size": 185,
+        "extension": ".xml",
+        "modified_time": 1757495341.606919
+    },
+    {
+        "name": "workspace",
+        "size": 2147,
+        "extension": ".xml",
+        "modified_time": 1757495340.6507084
+    },
+    {
+        "name": "profiles_settings",
+        "size": 174,
+        "extension": ".xml",
+        "modified_time": 1757495341.475895
+    }
+]
