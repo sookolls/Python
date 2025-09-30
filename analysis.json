@@ -1,0 +1,66 @@
+{
+    "group_words": {
+        "5": [
+            {
+                "word": "hello",
+                "frequency": 3,
+                "length": 5,
+                "first_occurrence": 0
+            },
+            {
+                "word": "world",
+                "frequency": 1,
+                "length": 5,
+                "first_occurrence": 1
+            }
+        ],
+        "6": [
+            {
+                "word": "python",
+                "frequency": 2,
+                "length": 6,
+                "first_occurrence": 3
+            }
+        ],
+        "4": [
+            {
+                "word": "code",
+                "frequency": 1,
+                "length": 4,
+                "first_occurrence": 4
+            }
+        ]
+    },
+    "first_use": {
+        "hello": {
+            "word": "hello",
+            "frequency": 3,
+            "length": 5,
+            "first_occurrence": 0
+        },
+        "world": {
+            "word": "world",
+            "frequency": 1,
+            "length": 5,
+            "first_occurrence": 1
+        },
+        "python": {
+            "word": "python",
+            "frequency": 2,
+            "length": 6,
+            "first_occurrence": 3
+        },
+        "code": {
+            "word": "code",
+            "frequency": 1,
+            "length": 4,
+            "first_occurrence": 4
+        }
+    },
+    "last_50_words": [
+        "hello",
+        "world",
+        "python",
+        "code"
+    ]
+}

@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2025-09-22T09:47:08.483",
+        "level": "INFO",
+        "message": "Система запущена",
+        "module": "__main__",
+        "function": "main"
+    }
+]
